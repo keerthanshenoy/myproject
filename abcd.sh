@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hello my name is keerthan  "
+cho "hello my name is keerthan  "
 
